@@ -1,4 +1,4 @@
-<img align="center" src="pepe_lifting_interlaced.jpg">
+<img align="center" src="pepe_lifting_interlaced.png">
 
 <!--
 **youyingfeng/youyingfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
